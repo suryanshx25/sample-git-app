@@ -8,3 +8,10 @@ st.subheader('Data Analysis')
 st.subheader('SQL')
 st.subheader('ML')
 st.subheader('DSA')
+
+st.sidebar.title('Menu')
+st.sidebar.markdown("""
+- Home
+- About
+- Contact
+""")
