@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title('CampusX')
+st.title('CampusX An Online Learning Platform')
 
 st.header('Courses offered')
 st.subheader('Data Science and Machine Learning')
